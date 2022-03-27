@@ -1,0 +1,161 @@
+body {
+  background-color: #fde4ad;
+}
+
+/* Navbar*/
+#navbarNavAltMarkup {
+  font-family: "Acme", sans-serif;
+  margin-right: 20px;
+  color: #fde4ad;
+  font-weight: bold;
+  font-size: 20px;
+  position: static;
+}
+
+.navbar {
+  background-color: #131214;
+  position: static;
+}
+
+#elemen{
+  padding-top: 15px;
+}
+
+#title{
+  padding-top: 30px;
+  font-family: "Acme", sans-serif;
+}
+
+#brand {
+  font-family: "Acme", sans-serif;
+  margin-left: 20px;
+  color: #fde4ad;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+/* about */
+
+#containerAbout{
+  padding-top: 30px;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  align-items: center;
+  font-family: "Acme", sans-serif;
+}
+
+/* form */
+#formulir {
+  padding-top: 30px;
+  font-family: "Acme", sans-serif;
+  
+}
+
+#showoff {
+  margin-top: 40px;
+}
+
+.card p {
+  font-family: "Acme", sans-serif;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+}
+
+#anemo {
+  transition: all 0.2s ease;
+  cursor: pointer;
+}
+#anemo:hover {
+  box-shadow: #7cc5af 0px 5px 15px;
+  transform: scale(1.1);
+}
+
+#geo {
+  transition: all 0.2s ease;
+  cursor: pointer;
+}
+#geo:hover {
+  box-shadow: #fcb72f 0px 5px 15px;
+  transform: scale(1.1);
+}
+
+#electro {
+  transition: all 0.2s ease;
+  cursor: pointer;
+}
+#electro:hover {
+  box-shadow: #b08fc3 0px 5px 15px;
+  transform: scale(1.1);
+}
+
+#pyro {
+  transition: all 0.2s ease;
+  cursor: pointer;
+}
+#pyro:hover {
+  box-shadow: #f07a36 0px 5px 15px;
+  transform: scale(1.1);
+}
+
+#hydro {
+  transition: all 0.2s ease;
+  cursor: pointer;
+}
+#hydro:hover {
+  box-shadow: #4bc2f1 0px 5px 15px;
+  transform: scale(1.1);
+}
+
+#dendro {
+  transition: all 0.2s ease;
+  cursor: pointer;
+}
+#dendro:hover {
+  box-shadow: #a6c939 0px 5px 15px;
+  transform: scale(1.1);
+}
+
+#accordionHead {
+  color: #fde4ad;
+  font-family: "Acme", sans-serif;
+  font-size: 20px;
+  background-color: #131214;
+}
+
+#heading {
+  background-color: #131214;
+}
+
+#headingAccordion a:hover {
+  border-color: #fde4ad;
+}
+
+#cardBody {
+  background-color: #daecf7;
+}
+
+#accordion{
+  border: none;
+}
+
+/*Icon*/
+#iconVenti{
+  height: 130px;
+  background-color: #7cc5af;
+  border-radius: 35%;
+}
+#iconZhongli{
+  height: 130px;
+  background-color:#fcb72f;
+  border-radius: 35%;
+}
+#iconRaiden{
+  height: 130px;
+  background-color:#b08fc3;
+  border-radius: 35%;
+}
+
